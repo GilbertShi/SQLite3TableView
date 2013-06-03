@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* FailedBanks */ = {
+		activeExec = 0;
+		executables = (
+			E1F14D9B12B6F11A00EDCD59 /* FailedBanks */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E1F14D9B12B6F11A00EDCD59 /* FailedBanks */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FailedBanks */;
+		codeSenseManager = E1F14DAA12B6F14100EDCD59 /* Code sense */;
+		executables = (
+			E1F14D9B12B6F11A00EDCD59 /* FailedBanks */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313979162;
+			PBXWorkspaceStateSaveDate = 313979162;
+		};
+		perUserProjectItems = {
+			E1F14DB512B6F20000EDCD59 /* PBXTextBookmark */ = E1F14DB512B6F20000EDCD59 /* PBXTextBookmark */;
+			E1F14DB712B6F20000EDCD59 /* PBXTextBookmark */ = E1F14DB712B6F20000EDCD59 /* PBXTextBookmark */;
+			E1F14DB812B6F20000EDCD59 /* PBXTextBookmark */ = E1F14DB812B6F20000EDCD59 /* PBXTextBookmark */;
+			E1F14DC612B6F20700EDCD59 /* PBXTextBookmark */ = E1F14DC612B6F20700EDCD59 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E1F14DA912B6F14100EDCD59 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	350ACB27116A7D0E004DA67E /* FailedBankDatabase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {699, 299}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{144, 289}";
+		};
+	};
+	350ACB28116A7D0E004DA67E /* FailedBankDatabase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 1612}}";
+			sepNavSelRange = "{627, 12}";
+			sepNavVisRange = "{435, 358}";
+		};
+	};
+	E1F14D9B12B6F11A00EDCD59 /* FailedBanks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FailedBanks;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E1F14DA912B6F14100EDCD59 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E1F14DAA12B6F14100EDCD59 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E1F14DB512B6F20000EDCD59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1F14DB612B6F20000EDCD59 /* sqlite3.h */;
+		name = "sqlite3.h: 2047";
+		rLen = 18;
+		rLoc = 95193;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 94851;
+	};
+	E1F14DB612B6F20000EDCD59 /* sqlite3.h */ = {
+		isa = PBXFileReference;
+		name = sqlite3.h;
+		path = /usr/include/sqlite3.h;
+		sourceTree = "<absolute>";
+	};
+	E1F14DB712B6F20000EDCD59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 350ACB28116A7D0E004DA67E /* FailedBankDatabase.m */;
+		name = "FailedBankDatabase.m: 28";
+		rLen = 12;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 435;
+	};
+	E1F14DB812B6F20000EDCD59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 350ACB27116A7D0E004DA67E /* FailedBankDatabase.h */;
+		name = "FailedBankDatabase.h: 15";
+		rLen = 7;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 144;
+	};
+	E1F14DC612B6F20700EDCD59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 350ACB27116A7D0E004DA67E /* FailedBankDatabase.h */;
+		name = "FailedBankDatabase.h: 12";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 144;
+	};
+}
